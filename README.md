@@ -4,6 +4,12 @@
 This repository contains the full source code, allowing you to customize **OCR logic, confidence filtering, multi-threading behavior, UI styling, and export functionality** for personal, educational, or professional document processing workflows.
 
 ------------------------------------------------------------
+🌟 SCREENSHOT
+------------------------------------------------------------
+
+<img alt="PDF Structured Data Extractor" src="https://github.com/rogers-cyber/PDFStructuredDataExtractor/blob/main/PDF-Structured-Data-Extractor.jpg" />
+
+------------------------------------------------------------
 🌟 FEATURES
 ------------------------------------------------------------
 
@@ -140,3 +146,4 @@ Website / Contact: https://matetools.gumroad.com
 Distributed as source code.  
 You may use it for personal or educational projects.  
 Redistribution, resale, or commercial use requires explicit permission.
+
